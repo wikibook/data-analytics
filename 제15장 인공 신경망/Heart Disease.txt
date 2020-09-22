@@ -1,0 +1,16 @@
+Data 출처
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. 
+             Irvine, CA: University of California, School of Information and Computer Science. 
+
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+Data 출처에 아래와 같이 기술되어 있음.
+
+This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. 
+In particular, the Cleveland database is the only one that has been used by ML researchers to  this date. 
+The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4. 
+Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) 
+from absence (value 0). 
+
+그러므로 입력속성은 14개만 사용하였고, 목표속성 disease의 값이 2,3,4인 것은 모두 1로 변환하였음.

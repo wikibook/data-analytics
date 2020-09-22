@@ -1,0 +1,12 @@
+Data 출처
+
+http://calcnet.mth.cmich.edu/org/spss/Prj_loan_data.htm
+
+데이터가 sav format으로 되어있기 때문에 변환을 해야 한다.
+
+https://pspp.benpfaff.org/ 에 접속하여
+Output Format을 <Data, in comma-separated value (CSV) format>으로 설정하면
+데이터를 볼 수 있다.
+
+Output Format을 <Dictionary, in text format>으로 설정하면
+데이터에 대한 설명을 볼 수 있다.

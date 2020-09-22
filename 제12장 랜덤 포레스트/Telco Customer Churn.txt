@@ -1,0 +1,5 @@
+Data 출처
+
+https://www.kaggle.com/blastchar/telco-customer-churn
+
+Explorer를 사용하면 접속이 안될 수 있으므로 Chrome을 사용해야 함.

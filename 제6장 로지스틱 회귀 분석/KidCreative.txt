@@ -1,0 +1,5 @@
+Data 출처
+
+http://logisticregressionanalysis.com/MiscPages/KidCreative.csv
+
+Training_Data와 Test_Data를 합쳐서 사용함.

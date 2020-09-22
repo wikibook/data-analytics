@@ -1,0 +1,8 @@
+Data 출처
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. 
+             Irvine, CA: University of California, School of Information and Computer Science. 
+
+https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling
+
+Training_Data와 Test_Data를 합쳐서 사용함.
