@@ -1,5 +1,5 @@
-Data ÃâÃ³
+Data ì¶œì²˜
 
 https://www.kaggle.com/blastchar/telco-customer-churn
 
-Explorer¸¦ »ç¿ëÇÏ¸é Á¢¼ÓÀÌ ¾ÈµÉ ¼ö ÀÖÀ¸¹Ç·Î ChromeÀ» »ç¿ëÇØ¾ß ÇÔ.
+Explorerë¥¼ ì‚¬ìš©í•˜ë©´ ì ‘ì†ì´ ì•ˆë  ìˆ˜ ìˆìœ¼ë¯€ë¡œ Chromeì„ ì‚¬ìš©í•´ì•¼ í•¨.

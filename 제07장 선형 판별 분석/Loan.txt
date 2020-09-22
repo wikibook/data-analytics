@@ -1,12 +1,12 @@
-Data ÃâÃ³
+Data ì¶œì²˜
 
 http://calcnet.mth.cmich.edu/org/spss/Prj_loan_data.htm
 
-µ¥ÀÌÅÍ°¡ sav formatÀ¸·Î µÇ¾îÀÖ±â ¶§¹®¿¡ º¯È¯À» ÇØ¾ß ÇÑ´Ù.
+ë°ì´í„°ê°€ sav formatìœ¼ë¡œ ë˜ì–´ìˆê¸° ë•Œë¬¸ì— ë³€í™˜ì„ í•´ì•¼ í•œë‹¤.
 
-https://pspp.benpfaff.org/ ¿¡ Á¢¼ÓÇÏ¿©
-Output FormatÀ» <Data, in comma-separated value (CSV) format>À¸·Î ¼³Á¤ÇÏ¸é
-µ¥ÀÌÅÍ¸¦ º¼ ¼ö ÀÖ´Ù.
+https://pspp.benpfaff.org/ ì— ì ‘ì†í•˜ì—¬
+Output Formatì„ <Data, in comma-separated value (CSV) format>ìœ¼ë¡œ ì„¤ì •í•˜ë©´
+ë°ì´í„°ë¥¼ ë³¼ ìˆ˜ ìˆë‹¤.
 
-Output FormatÀ» <Dictionary, in text format>À¸·Î ¼³Á¤ÇÏ¸é
-µ¥ÀÌÅÍ¿¡ ´ëÇÑ ¼³¸íÀ» º¼ ¼ö ÀÖ´Ù.
+Output Formatì„ <Dictionary, in text format>ìœ¼ë¡œ ì„¤ì •í•˜ë©´
+ë°ì´í„°ì— ëŒ€í•œ ì„¤ëª…ì„ ë³¼ ìˆ˜ ìˆë‹¤.

@@ -1,8 +1,8 @@
-Data ÃâÃ³
+Data ì¶œì²˜
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. 
              Irvine, CA: University of California, School of Information and Computer Science. 
 
 https://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling
 
-Training_Data¿Í Test_Data¸¦ ÇÕÃÄ¼­ »ç¿ëÇÔ.
+Training_Dataì™€ Test_Dataë¥¼ í•©ì³ì„œ ì‚¬ìš©í•¨.

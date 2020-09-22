@@ -1,11 +1,11 @@
-Data ÃâÃ³
+Data ì¶œì²˜
 
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. 
              Irvine, CA: University of California, School of Information and Computer Science. 
 
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
-Data ÃâÃ³¿¡ ¾Æ·¡¿Í °°ÀÌ ±â¼úµÇ¾î ÀÖÀ½.
+Data ì¶œì²˜ì— ì•„ë˜ì™€ ê°™ì´ ê¸°ìˆ ë˜ì–´ ìˆìŒ.
 
 This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. 
 In particular, the Cleveland database is the only one that has been used by ML researchers to  this date. 
@@ -13,4 +13,4 @@ The "goal" field refers to the presence of heart disease in the patient. It is i
 Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) 
 from absence (value 0). 
 
-±×·¯¹Ç·Î ÀÔ·Â¼Ó¼ºÀº 14°³¸¸ »ç¿ëÇÏ¿´°í, ¸ñÇ¥¼Ó¼º diseaseÀÇ °ªÀÌ 2,3,4ÀÎ °ÍÀº ¸ğµÎ 1·Î º¯È¯ÇÏ¿´À½.
+ê·¸ëŸ¬ë¯€ë¡œ ì…ë ¥ì†ì„±ì€ 14ê°œë§Œ ì‚¬ìš©í•˜ì˜€ê³ , ëª©í‘œì†ì„± diseaseì˜ ê°’ì´ 2,3,4ì¸ ê²ƒì€ ëª¨ë‘ 1ë¡œ ë³€í™˜í•˜ì˜€ìŒ.
